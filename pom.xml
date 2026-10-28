@@ -39,9 +39,9 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<connection>scm:git:https://github.com/citelibre/library-theme-citelibre.git</connection>
-		<developerConnection>scm:git:https://github.com/citelibre/library-theme-citelibre.git</developerConnection>
-		<url>https://github.com/citelibre/library-theme-citelibre.git</url>
+		<connection>scm:git:https://github.com/citelibreorg/library-theme-citelibre.git</connection>
+		<developerConnection>scm:git:https://github.com/citelibreorg/library-theme-citelibre.git</developerConnection>
+		<url>https://github.com/citelibreorg/library-theme-citelibre.git</url>
 	  <tag>HEAD</tag>
 	</scm>
 </project>
